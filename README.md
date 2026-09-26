@@ -1,10 +1,10 @@
-# AgendaURG - Agenda Académica y de Contactos 📱
+# AgendaURG - Agenda Académica y de Contactos 
 
 **AgendaURG** es una aplicación Android desarrollada en **Kotlin** con **Material Design 3**, diseñada para la gestión y consulta rápida de contactos docentes y académicos de diversas facultades.
 
 ---
 
-## 🚀 Características y Requerimientos Cumplidos
+##  Características y Requerimientos Cumplidos
 
 1. **Activity Anfitriona con 2 Fragments Intercambiables**:
    - `MainActivity` funciona como contenedor anfitrión utilizando `FrameLayout`.
@@ -29,7 +29,7 @@
 
 ---
 
-## 👨‍🏫 Profesores Registrados en la App
+##  Profesores Registrados en la App
 
 1. **Ing. José Ramírez** — *Ingeniería en Sistemas* (Tel: `88112233`)
 2. **Licda. Mariana González** — *Administración de Empresas* (Tel: `88223344`)
@@ -39,7 +39,7 @@
 
 ---
 
-## 🛠️ Tecnologías y Librerías
+##  Tecnologías y Librerías
 
 - **Lenguaje**: Kotlin
 - **SDK Objetivo**: Android 14 / API 35+ (Min SDK 27)
@@ -49,7 +49,7 @@
 
 ---
 
-## 🔧 Compilación y Ejecución
+##  Compilación y Ejecución
 
 Para compilar el proyecto localmente mediante Gradle:
 
@@ -59,6 +59,6 @@ Para compilar el proyecto localmente mediante Gradle:
 
 ---
 
-## 📄 Licencia
+##  Licencia
 
 Este proyecto fue desarrollado para fines académicos e instruccionales.
