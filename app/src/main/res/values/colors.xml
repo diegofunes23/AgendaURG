@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Palette de Colores Facultad de Ingeniería -->
+    <color name="primary">#0D47A1</color>
+    <color name="primary_dark">#002171</color>
+    <color name="primary_light">#5472D3</color>
+    <color name="secondary">#00796B</color>
+    <color name="secondary_light">#48A999</color>
+    <color name="background_light">#F5F7FA</color>
+    <color name="surface_card">#FFFFFF</color>
+</resources>

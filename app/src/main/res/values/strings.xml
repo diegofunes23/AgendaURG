@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AgendaURG</string>
+    <string name="title_contactos_urgencia">Agenda Académica - Profesores</string>
+    <string name="title_nuevo_contacto">Agregar Profesor</string>
+    <string name="title_detalle_contacto">Detalle del Profesor</string>
+    <string name="label_nombre">Nombre del Profesor</string>
+    <string name="label_telefono">Teléfono / Extensión</string>
+    <string name="label_email">Correo Institucional</string>
+    <string name="label_categoria">Carrera / Facultad</string>
+    <string name="label_descripcion">Cubículo / Horario / Notas</string>
+    <string name="btn_guardar">Guardar Profesor</string>
+    <string name="btn_ver_detalle">Ver Detalle Completo</string>
+    <string name="btn_llamar">Llamar (ACTION_DIAL)</string>
+    <string name="btn_enviar">Enviar Mensaje (ACTION_SEND)</string>
+    <string name="btn_nuevo">Agregar Profesor</string>
+    <string name="btn_lista">Ver Lista</string>
+    <string name="msg_contacto_guardado">Profesor registrado exitosamente</string>
+    <string name="msg_contacto_seleccionado">Profesor seleccionado en ViewModel compartido</string>
+    <string name="msg_abriendo_marcador">Abriendo marcador telefónico...</string>
+    <string name="msg_abriendo_envio">Abriendo opciones para enviar correo/mensaje...</string>
+    <string name="extra_id">EXTRA_ID</string>
+    <string name="extra_nombre">EXTRA_NOMBRE</string>
+    <string name="extra_telefono">EXTRA_TELEFONO</string>
+    <string name="extra_email">EXTRA_EMAIL</string>
+    <string name="extra_categoria">EXTRA_CATEGORIA</string>
+    <string name="extra_descripcion">EXTRA_DESCRIPCION</string>
+</resources>
